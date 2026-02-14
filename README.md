@@ -14,10 +14,10 @@ It is mainly here as a **personal portfolio / showcase** to document my progress
 Below is a quick overview of the three projects in this repository. Each link points to the **project report** inside the corresponding subfolder.
 
 1. **Lab 1 — Filtering Operations**  
-   Report: [AnswerSheet_Lab1](./Lab 1 - Filtering Operations/AnwerSheet_Lab1.pdf)
+   Report: [AnswerSheet_Lab1](https://github.com/timohaubner/computer-vision-labs/blob/main/Lab%201%20-%20Filtering%20Operations/AnwerSheet_Lab1.pdf)
 
 2. **Lab 2 — Edge Detection & Hugh Transform**  
-   Report: [AnswerSheet_Lab2](./Lab 2 - Edge Detection & Hugh Transform/AnswerSheet_Lab2.pdf)
+   Report: [AnswerSheet_Lab2](https://github.com/timohaubner/computer-vision-labs/blob/main/Lab%202%20-%20Edge%20Detection%20%26%20Hugh%20Transform/AnswerSheet_Lab2.pdf)
 
 3. **Lab 3 — Image Matching & 3D Reconstruction**  
-   Report: [AnswerSheet_Lab3](./Lab 3 - Image Matching & 3D Reconstruction/AnswerSheet_Lab3.pdf)
+   Report: [AnswerSheet_Lab3](https://github.com/timohaubner/computer-vision-labs/blob/main/Lab%203%20-%20Image%20Matching%20%26%203D%20Reconstruction/AnswerSheet-Lab3.pdf)
